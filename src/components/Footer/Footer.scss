@@ -1,0 +1,19 @@
+.footer {
+  background: #161619;
+  font-size: 1.6rem;
+  padding-block: 1rem;
+  border-radius: inherit;
+
+  ul {
+    display: flex;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+
+    li {
+      list-style-type: none;
+      margin-inline: 1rem;
+    }
+  }
+}
